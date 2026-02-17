@@ -1,0 +1,7 @@
+{
+  "name": "KisanSahayak - FPO Connect",
+  "description": "A comprehensive digital platform connecting farmers to their Farmer Producer Organization (FPO). Features real-time market prices, collective purchasing, equity tracking, and an AI-powered agricultural advisor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
